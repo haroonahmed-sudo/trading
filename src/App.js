@@ -1,25 +1,57 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
 
-function App() {
+import Navbar from './navbar';
+import FakeNavbar from './FakeNavbar';
+import Home from './home';
+import Plans from './plans';
+import Faqs from './faq';
+import Reviews from './reviews';
+import Contact from './contact';
+import About from './About';
+import Footer from './footer';
+import Routes from './Routes';
+import './assets/scss/themes.scss';
+import { useParams } from 'react-router-dom'
+import GetStarted from './GetStarted';
+
+const App = () => {
+  const { srh } = useParams()
+  const rootElement = document.documentElement;
+  rootElement.setAttribute('data-layout-mode', 'dark');
+
+  document.title = "Landing | SAFI BHAI WEBSITE";
+  const [show, setShow] = useState(true)
+  useEffect(() => {
+    const checkURL = () => {
+      const currentURL = window.location.href;
+
+      const searchString = 'start';
+      if (currentURL.includes(searchString)) {
+        setShow(false)
+        // Perform further actions
+      }
+
+    };
+
+    checkURL();
+  }, []);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <React.Fragment>
+      {/* {srh != 1 ? */}
+      {show == true ? <Navbar /> : <FakeNavbar />}
+
+      {show == true ? <div className="layout-wrapper landing">
+        <Home />
+        <Plans />
+        <About />
+        <Faqs />
+        <Reviews />
+        <Contact />
+        <Footer />
+      </div> : <Routes />}
+
+    </React.Fragment>
   );
-}
+};
 
 export default App;
