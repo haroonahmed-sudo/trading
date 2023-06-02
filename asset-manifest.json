@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trading/static/css/main.92e6c824.css",
-    "main.js": "/trading/static/js/main.a54a0218.js",
+    "main.css": "/trading/static/css/main.5862dd96.css",
+    "main.js": "/trading/static/js/main.0d9add06.js",
     "static/js/787.1517f9c2.chunk.js": "/trading/static/js/787.1517f9c2.chunk.js",
     "static/media/remixicon.svg?t=1590207869815": "/trading/static/media/remixicon.1664a258a7e7714f6f8d.svg",
     "static/media/boxicons.svg": "/trading/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
@@ -17,6 +17,8 @@
     "static/media/boxicons.woff": "/trading/static/media/boxicons.1a7e2e2bf3a855e674d4.woff",
     "static/media/boxicons.ttf": "/trading/static/media/boxicons.22afc8ee5cfc540cddff.ttf",
     "static/media/img-1.jpg": "/trading/static/media/img-1.5dc71661fee626dd920b.jpg",
+    "static/media/third.jpeg": "/trading/static/media/third.4f8cdec04d71af065bba.jpeg",
+    "static/media/ninth.jpeg": "/trading/static/media/ninth.5b7724101873c4f42119.jpeg",
     "static/media/img-3.jpg": "/trading/static/media/img-3.828f3ece923fd7073b5f.jpg",
     "static/media/safi bhai.jpeg": "/trading/static/media/safi bhai.c6b60922f0a69c0a8f95.jpeg",
     "static/media/la-solid-900.eot": "/trading/static/media/la-solid-900.4184d740eae2fb727bfe.eot",
@@ -53,12 +55,12 @@
     "static/media/logo1.png": "/trading/static/media/logo1.28d72076b36f00e36108.png",
     "static/media/la-regular-400.woff2": "/trading/static/media/la-regular-400.8dc1cedf1f4987f82b72.woff2",
     "index.html": "/trading/index.html",
-    "main.92e6c824.css.map": "/trading/static/css/main.92e6c824.css.map",
-    "main.a54a0218.js.map": "/trading/static/js/main.a54a0218.js.map",
+    "main.5862dd96.css.map": "/trading/static/css/main.5862dd96.css.map",
+    "main.0d9add06.js.map": "/trading/static/js/main.0d9add06.js.map",
     "787.1517f9c2.chunk.js.map": "/trading/static/js/787.1517f9c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92e6c824.css",
-    "static/js/main.a54a0218.js"
+    "static/css/main.5862dd96.css",
+    "static/js/main.0d9add06.js"
   ]
 }
