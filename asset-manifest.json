@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trading/static/css/main.fbe643ba.css",
-    "main.js": "/trading/static/js/main.59d9db3d.js",
+    "main.css": "/trading/static/css/main.26d984ad.css",
+    "main.js": "/trading/static/js/main.a668af77.js",
     "static/js/787.1517f9c2.chunk.js": "/trading/static/js/787.1517f9c2.chunk.js",
     "static/media/remixicon.svg?t=1590207869815": "/trading/static/media/remixicon.1664a258a7e7714f6f8d.svg",
     "static/media/boxicons.svg": "/trading/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
@@ -9,6 +9,7 @@
     "static/media/materialdesignicons-webfont.ttf?v=6.5.95": "/trading/static/media/materialdesignicons-webfont.5d42b4e60858731e7b65.ttf",
     "static/media/la-brands-400.svg": "/trading/static/media/la-brands-400.331115337bc9be66667a.svg",
     "static/media/la-solid-900.svg": "/trading/static/media/la-solid-900.0f874d69730f8631d632.svg",
+    "static/media/bg-home.jpg": "/trading/static/media/bg-home.a875087c0ac22dd0cffe.jpg",
     "static/media/materialdesignicons-webfont.woff?v=6.5.95": "/trading/static/media/materialdesignicons-webfont.5dff34d5fed607519dcb.woff",
     "static/media/remixicon.eot?t=1590207869815": "/trading/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/trading/static/media/remixicon.f2616f597cf98f38d234.ttf",
@@ -17,6 +18,7 @@
     "static/media/boxicons.woff": "/trading/static/media/boxicons.1a7e2e2bf3a855e674d4.woff",
     "static/media/boxicons.ttf": "/trading/static/media/boxicons.22afc8ee5cfc540cddff.ttf",
     "static/media/img-1.jpg": "/trading/static/media/img-1.5dc71661fee626dd920b.jpg",
+    "static/media/auth-one-bg.jpg": "/trading/static/media/auth-one-bg.25e906a11e79860b57fd.jpg",
     "static/media/third.jpeg": "/trading/static/media/third.4f8cdec04d71af065bba.jpeg",
     "static/media/ninth.jpeg": "/trading/static/media/ninth.5b7724101873c4f42119.jpeg",
     "static/media/img-3.jpg": "/trading/static/media/img-3.828f3ece923fd7073b5f.jpg",
@@ -26,6 +28,7 @@
     "static/media/img-4.jpg": "/trading/static/media/img-4.0c27fe74df9e5866c5d6.jpg",
     "static/media/remixicon.woff?t=1590207869815": "/trading/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/img-2.jpg": "/trading/static/media/img-2.ac05ca01b7b420f0bb83.jpg",
+    "static/media/marketplace.png": "/trading/static/media/marketplace.71ac83cb425dd99cc8eb.png",
     "static/media/la-brands-400.eot": "/trading/static/media/la-brands-400.908ce19d18187969b32f.eot",
     "static/media/la-brands-400.ttf": "/trading/static/media/la-brands-400.6ecea4826b87fafb97be.ttf",
     "static/media/hkgrotesk-semibold.eot": "/trading/static/media/hkgrotesk-semibold.e51918649afb22bbd2ed.eot",
@@ -43,6 +46,7 @@
     "static/media/hkgrotesk-medium.eot": "/trading/static/media/hkgrotesk-medium.58389f5208c2a374d476.eot",
     "static/media/hkgrotesk-light.eot": "/trading/static/media/hkgrotesk-light.54dec9ba75b0672e5e0a.eot",
     "static/media/la-brands-400.woff2": "/trading/static/media/la-brands-400.3a8109c4ac75662f8355.woff2",
+    "static/media/file.png": "/trading/static/media/file.7460d341c4220363ca42.png",
     "static/media/trading.jpeg": "/trading/static/media/trading.a795d80a0979c55ae890.jpeg",
     "static/media/hkgrotesk-semibold.woff": "/trading/static/media/hkgrotesk-semibold.59387fcce7c52054d89f.woff",
     "static/media/hkgrotesk-regular.woff": "/trading/static/media/hkgrotesk-regular.24ff70bdc6ea8999be5c.woff",
@@ -51,16 +55,17 @@
     "static/media/la-regular-400.eot": "/trading/static/media/la-regular-400.77111476f05dd3443047.eot",
     "static/media/la-regular-400.ttf": "/trading/static/media/la-regular-400.cf246e21218cab398b3d.ttf",
     "static/media/logo.png": "/trading/static/media/logo.bd26b237e7e8f92a6162.png",
+    "static/media/cover-pattern.png": "/trading/static/media/cover-pattern.181df191d9b702006e4b.png",
     "static/media/la-regular-400.woff": "/trading/static/media/la-regular-400.aa859c0d08b8193d6586.woff",
     "static/media/logo1.png": "/trading/static/media/logo1.28d72076b36f00e36108.png",
     "static/media/la-regular-400.woff2": "/trading/static/media/la-regular-400.8dc1cedf1f4987f82b72.woff2",
     "index.html": "/trading/index.html",
-    "main.fbe643ba.css.map": "/trading/static/css/main.fbe643ba.css.map",
-    "main.59d9db3d.js.map": "/trading/static/js/main.59d9db3d.js.map",
+    "main.26d984ad.css.map": "/trading/static/css/main.26d984ad.css.map",
+    "main.a668af77.js.map": "/trading/static/js/main.a668af77.js.map",
     "787.1517f9c2.chunk.js.map": "/trading/static/js/787.1517f9c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbe643ba.css",
-    "static/js/main.59d9db3d.js"
+    "static/css/main.26d984ad.css",
+    "static/js/main.a668af77.js"
   ]
 }
