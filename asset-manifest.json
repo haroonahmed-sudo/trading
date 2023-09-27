@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trading/static/css/main.fb4cd5fa.css",
-    "main.js": "/trading/static/js/main.1f122a36.js",
+    "main.css": "/trading/static/css/main.4e6bcaf8.css",
+    "main.js": "/trading/static/js/main.c508976f.js",
     "static/js/787.1517f9c2.chunk.js": "/trading/static/js/787.1517f9c2.chunk.js",
     "static/media/remixicon.svg?t=1590207869815": "/trading/static/media/remixicon.1664a258a7e7714f6f8d.svg",
     "static/media/boxicons.svg": "/trading/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
@@ -55,12 +55,12 @@
     "static/media/la-regular-400.woff": "/trading/static/media/la-regular-400.aa859c0d08b8193d6586.woff",
     "static/media/la-regular-400.woff2": "/trading/static/media/la-regular-400.8dc1cedf1f4987f82b72.woff2",
     "index.html": "/trading/index.html",
-    "main.fb4cd5fa.css.map": "/trading/static/css/main.fb4cd5fa.css.map",
-    "main.1f122a36.js.map": "/trading/static/js/main.1f122a36.js.map",
+    "main.4e6bcaf8.css.map": "/trading/static/css/main.4e6bcaf8.css.map",
+    "main.c508976f.js.map": "/trading/static/js/main.c508976f.js.map",
     "787.1517f9c2.chunk.js.map": "/trading/static/js/787.1517f9c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb4cd5fa.css",
-    "static/js/main.1f122a36.js"
+    "static/css/main.4e6bcaf8.css",
+    "static/js/main.c508976f.js"
   ]
 }
